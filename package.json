@@ -1,0 +1,11 @@
+{
+  "name": "luwanrunclub",
+  "version": "1.0.0",
+  "description": "卢湾跑团会员管理系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
